@@ -1,0 +1,17 @@
+div {
+    background-color: red;
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+
+
+button {
+    color: black;
+    border-top-color: lightgray;
+    border-left-color: lightgray;
+    border-color: gray;
+    font-size: 3em;
+}
